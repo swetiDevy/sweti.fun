@@ -7,17 +7,17 @@
     {
         src: 'background/background-video2.mp4',
         text: 'Now playing: KOX KUMPLE - ANDRYCHOWSKI GANGSTER',
-        link: 'https://www.youtube.com/watch?v=nW0lLR8B2r4&list=PL5H6_SWPbBWkwDsa81IkEV0qpURxKf-0u&index=13'
+        link: 'https://www.youtube.com/watch?v=nW0lLR8B2r'
     },
     {
         src: 'background/background-video3.mp4',
         text: 'Now playing: KOX KUMPLE - MY TO KUMPLE',
-        link: 'https://www.youtube.com/watch?v=DKdsrWRtfow&list=PL5H6_SWPbBWkwDsa81IkEV0qpURxKf-0u&index=9'
+        link: 'https://www.youtube.com/watch?v=DKdsrWRtfow'
     },
     {
         src: 'background/background-video4.mp4',
         text: 'Now playing: Lil Nigma - Monochrom',
-        link: 'https://www.youtube.com/watch?v=hRQqa8k9law&list=PL5H6_SWPbBWkwDsa81IkEV0qpURxKf-0u&index=27'
+        link: 'https://www.youtube.com/watch?v=hRQqa8k9law'
     }
 ];
 
