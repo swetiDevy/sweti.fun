@@ -1,0 +1,2 @@
+# sweti.fun
+ my site
