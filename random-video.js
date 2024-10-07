@@ -22,7 +22,14 @@
         text: 'Now playing: Lil Nigma - Monochrom',
         text2: 'made by: swetiDev 🩷',
         link: 'https://www.youtube.com/watch?v=hRQqa8k9law'
+    },
+    {
+        src: 'background/background-video5.mp4',
+        text: 'Now playing: chivas - noWy baTmAN',
+        text2: 'made by: swetiDev 🖤',
+        link: 'https://www.youtube.com/watch?v=fsCT6RdTvKo'
     }
+
 ];
 
 // Function to get a random video source
